@@ -1,5 +1,13 @@
 .footer {
     width: 50rem;
-    height: 100px;
+    height: 12.3rem;
     border: 1px solid black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link {
+    color: black;
+    font-size: 3rem;
 }
