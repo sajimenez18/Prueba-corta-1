@@ -7,4 +7,17 @@
     width: 50rem;
     height: 50rem;
     border: 1px solid black;
+
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+
+    padding-left: 5rem;
+    align-items: center;
+
+}
+.img {
+    width: 15rem;
+    height: 15rem;
+    border: 1px solid black;
 }
