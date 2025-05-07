@@ -2,4 +2,12 @@ header {
     border: 1px solid black;
     width: 50rem;
     height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    padding-left: 3rem;
+}
+.nombre {
+    font-size: 2rem;
 }
